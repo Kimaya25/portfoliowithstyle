@@ -1,0 +1,46 @@
+.projects{
+    background-color: bisque;
+    color:green;
+    border: solid;
+}
+.Aboutme{
+    background-color: indianred;
+    color: chocolate;
+    border : solid;
+}
+p{
+    color: indigo;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.angrybirds{
+    background-color:yellow;
+    color: darkslateblue;
+    border: goldenrod;
+    display: grid;
+}
+.pingpong{
+    background-color: yellow;
+    color: darkslateblue;
+    border: goldenrod;
+    display : grid;
+}
+.spacewars{
+    background-color: yellow;
+    color:darkslateblue;
+    border:goldenrod;
+    display: grid;
+}
+.trex{
+    background-color: yellow;
+    color: darkslateblue;
+    border:goldenrod;
+    display: grid;
+}
+.plinko{
+    background-color: yellow;
+    color: darkslateblue;
+    border: goldenrod;
+    display: grid;
+}
+
